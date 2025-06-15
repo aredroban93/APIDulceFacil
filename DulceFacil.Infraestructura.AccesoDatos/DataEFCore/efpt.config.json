@@ -1,0 +1,93 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "DulceFacilContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "C:\\Users\\User\\Documents\\Universidad Israel\\Proyectos.Net\\APIDulceFacil\\APIDulceFacil\\DulceFacil.Dominio.Modelo\\Entidades",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "DulceFacil.Infraestructura.AccesoDatos",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[Asignacion_Pedido_Ruta]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Categorias_Cliente]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Clientes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Conductores]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Detalle_Pedido]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Itinerarios]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Pedidos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Productos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Roles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Rutas]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Usuarios]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Zonas_Reparto]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDatabaseNamesForRoutines": true,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseInternalAccessModifiersForSprocsAndFunctions": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false,
+   "UseT4Split": false
+}
